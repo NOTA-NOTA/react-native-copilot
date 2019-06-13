@@ -1,23 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@eanota 
-2
-13
-868 142 mohebifar/react-native-copilot
- Code  Issues 32  Pull requests 10  Projects 0  Wiki  Security  Insights
-react-native-copilot/src/components/CopilotModal.js
-@iamsoorena iamsoorena Fix unresolved left/right values for Tooltip Component
-dab9793 on Sep 2, 2018
-@mohebifar @ohtangza @iamsoorena @arrygoo @danielang
-331 lines (291 sloc)  8.48 KB
-  
 // @flow
 import React, { Component } from 'react';
 import {
@@ -351,15 +331,3 @@ class CopilotModal extends Component<Props, State> {
 }
 
 export default CopilotModal;
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
